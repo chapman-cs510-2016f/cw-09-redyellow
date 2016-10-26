@@ -8,12 +8,9 @@ int factorial(int n) {
      * of each function */
 	
 	int fac;
-	if (n > 0){
+	if (n >= 0){
 		fac = 1; 
 	}
-	else if (n == 0){
-		fac = 0; 
-    }
 	else{
 		fac = -1;
 	}
