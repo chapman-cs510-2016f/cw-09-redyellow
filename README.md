@@ -39,7 +39,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**I learned about how the C structure works, like Makefile, source file, header file, object file. And learn more about compiler, gcc and make.**
 
 ## Honor Pledge
 
