@@ -37,9 +37,15 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
+I learned about how the C structure works.  There are many new definitions such as: 
+ - Makefile, source file, header file, object file, and executable file; 
+ - c preprocessor, c compiler, and c linker;
+ - gcc, make, and more.
 
-**I learned about how the C structure works, like Makefile, source file, header file, object file. And learn more about compiler, gcc and make.**
+Lingering questions and future steps can be:
+ - Makefile looks magical, but I am still confused how it is composed and how it works.  But maybe I do not need to know much about Make by now and will understand it later;
+ - Still need a lot more practice on how to implement acgc and acgv into loops.
+
 
 ## Honor Pledge
 
