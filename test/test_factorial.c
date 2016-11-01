@@ -27,11 +27,17 @@ static char * test_fac_0() {
     return 0;
 }
 
+static char * test_fac_6() {
+    mu_assert("error, factorial(6) != 720", factorial(6) == 720);
+    return 0;
+}
+
 /* all_tests collects a set of tests defined above, and runs them
  */
 static char * all_tests() {
     mu_run_test(test_fac_5);
     mu_run_test(test_fac_0);
+    mu_run_test(test_fac_6);
     return 0;
 }
 
@@ -41,7 +47,7 @@ static char * all_tests() {
 int main(int argc, char **argv) {
     // String to store all test results
     char *result = all_tests();
-    
+
     // If the result is not null, there is at least one error
     if (result != 0) {
         // print the errors
