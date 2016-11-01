@@ -37,14 +37,14 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-I learned about how the C structure works.  There are many new definitions such as: 
+First, I learned about how the C structure works, which brings up many new definitions for me such as:
  - Makefile, source file, header file, object file, and executable file; 
  - c preprocessor, c compiler, and c linker;
  - gcc, make, and more.
 
-Lingering questions and future steps can be:
- - Makefile looks magical, but I am still confused how it is composed and how it works.  But maybe I do not need to know much about Make by now and will understand it later;
- - Still need a lot more practice on how to implement acgc and acgv into loops.
+Second, I reviewed and learned how to use (open, insert, quit) vim in terminal.  Vim editor is superiorly powerful in some scenarios such as implementing indents in Makefiles.
+
+Third, I learned how to run tests, although do not understand much about how "static" and "mu_run_test()" work.
 
 
 ## Honor Pledge
